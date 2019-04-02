@@ -1,0 +1,699 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 12:15:00 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 11236@U032858
+
+[2018-03-06 12:15:00 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 12:15:00 #3 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 12:15:00 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 12:15:00 #5 type] 
+Type domain.Usuario is not enhanced.
+
+[2018-03-06 12:15:00 #6 type.registry] 
+New type domain.Bet
+
+[2018-03-06 12:15:00 #7 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2018-03-06 12:15:00 #8 type] 
+Type domain.Bet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 12:15:30 #1 store] 
+Database 'E:\Bets\resources\bets.temp' has been recovered (tr. 11-12)
+
+[2018-03-06 12:15:30 #2 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 12940@U032858
+
+[2018-03-06 12:15:30 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 12:15:30 #4 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 12:15:30 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 12:15:30 #6 type] 
+Type domain.Usuario is not enhanced.
+
+[2018-03-06 12:15:30 #7 type] 
+Type domain.Bet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 13:22:19 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 2300@u004527
+
+[2018-03-06 13:22:19 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 13:22:19 #3 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 13:22:19 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 13:22:19 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 13:22:19 #6 type.registry] 
+New type domain.User
+
+[2018-03-06 13:22:19 #7 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 13:28:03 #1 store] 
+Database 'E:\Bets\resources\bets.temp' has been recovered (tr. 14-14)
+
+[2018-03-06 13:28:03 #2 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 3752@u004527
+
+[2018-03-06 13:28:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 13:28:03 #4 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 13:28:03 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 13:28:03 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 13:28:03 #7 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 13:29:07 #1 store] 
+Database 'E:\Bets\resources\bets.temp' has been recovered (tr. 15-15)
+
+[2018-03-06 13:29:07 #2 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 8100@u004527
+
+[2018-03-06 13:29:07 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 13:29:07 #4 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 13:29:07 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 13:29:07 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 13:29:07 #7 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 13:30:33 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 5492@u004527
+
+[2018-03-06 13:30:34 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 13:30:34 #3 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 13:30:34 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 13:30:34 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 13:30:34 #6 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 13:32:26 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 6312@u004527
+
+[2018-03-06 13:32:26 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 13:32:26 #3 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 13:32:26 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 13:32:26 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 13:32:26 #6 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 13:33:37 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 5056@u004527
+
+[2018-03-06 13:33:38 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 13:33:38 #3 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 13:33:38 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 13:33:38 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 13:33:38 #6 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 13:37:13 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 8580@u004527
+
+[2018-03-06 13:37:13 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 13:37:13 #3 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 13:37:13 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 13:37:13 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 13:37:13 #6 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 13:38:00 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 5264@u004527
+
+[2018-03-06 13:38:00 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 13:38:00 #3 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 13:38:00 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 13:38:00 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 13:38:00 #6 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 13:39:06 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 6100@u004527
+
+[2018-03-06 13:39:07 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 13:39:07 #3 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 13:39:07 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 13:39:07 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 13:39:07 #6 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 13:40:12 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 9112@u004527
+
+[2018-03-06 13:40:12 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 13:40:12 #3 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 13:40:12 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 13:40:12 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 13:40:12 #6 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 13:41:39 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 6992@u004527
+
+[2018-03-06 13:41:39 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 13:41:39 #3 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 13:41:39 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 13:41:39 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 13:41:39 #6 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 13:44:37 #1 store] 
+Database 'E:\Bets\resources\bets.temp' has been recovered (tr. 16-16)
+
+[2018-03-06 13:44:37 #2 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 2144@u004527
+
+[2018-03-06 13:44:37 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 13:44:37 #4 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 13:44:37 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 13:44:37 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 13:44:37 #7 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 13:47:22 #1 store] 
+Database 'E:\Bets\resources\bets.temp' has been recovered (tr. 17-17)
+
+[2018-03-06 13:47:22 #2 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 4376@u004527
+
+[2018-03-06 13:47:23 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 13:47:23 #4 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 13:47:23 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 13:47:23 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 13:47:23 #7 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 13:48:43 #1 store] 
+Database 'E:\Bets\resources\bets.temp' has been recovered (tr. 18-18)
+
+[2018-03-06 13:48:43 #2 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 8376@u004527
+
+[2018-03-06 13:48:43 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 13:48:43 #4 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 13:48:43 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 13:48:43 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 13:48:43 #7 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 13:49:10 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 5740@u004527
+
+[2018-03-06 13:49:10 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 13:49:10 #3 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 13:49:10 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 13:49:10 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 13:49:10 #6 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 13:50:09 #1 store] 
+Database 'E:\Bets\resources\bets.temp' has been recovered (tr. 19-19)
+
+[2018-03-06 13:50:10 #2 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 8692@u004527
+
+[2018-03-06 13:50:10 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 13:50:10 #4 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 13:50:10 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 13:50:10 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 13:50:10 #7 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 13:50:52 #1 store] 
+Database 'E:\Bets\resources\bets.temp' has been recovered (tr. 20-21)
+
+[2018-03-06 13:50:52 #2 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 1540@u004527
+
+[2018-03-06 13:50:52 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 13:50:52 #4 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 13:50:52 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 13:50:52 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 13:50:52 #7 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 14:01:53 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 1116@u004527
+
+[2018-03-06 14:01:53 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 14:01:53 #3 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 14:01:53 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 14:01:53 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 14:01:53 #6 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 14:07:50 #1 store] 
+Database 'E:\Bets\resources\bets.temp' has been recovered (tr. 22-22)
+
+[2018-03-06 14:07:50 #2 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 3752@u004527
+
+[2018-03-06 14:07:50 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 14:07:50 #4 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 14:07:50 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 14:07:50 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 14:07:50 #7 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 15:10:11 #1 store] 
+Database 'C:\Users\danel\Desktop\IS\Bets\resources\bets.temp' has been recovered (tr. 23-23)
+
+[2018-03-06 15:10:12 #2 store] 
+Database 'C:\Users\danel\Desktop\IS\Bets\resources\bets.temp' is opened by 472@DESKTOP-RS6UR7Q
+
+[2018-03-06 15:10:12 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 15:10:12 #4 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 15:10:12 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 15:10:12 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 15:10:12 #7 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 15:19:48 #1 store] 
+Database 'C:\Users\danel\Desktop\IS\Bets\resources\bets.temp' is opened by 8916@DESKTOP-RS6UR7Q
+
+[2018-03-06 15:19:48 #2 type.registry] 
+New type domain.Question
+
+[2018-03-06 15:19:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 15:19:48 #4 type.registry] 
+New type domain.Forecast
+
+[2018-03-06 15:19:48 #5 type.registry] 
+New type java.util.Vector<domain.Forecast>
+
+[2018-03-06 15:19:48 #6 type.registry] 
+New type domain.Event
+
+[2018-03-06 15:19:48 #7 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 15:19:48 #8 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 15:19:48 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-03-06 15:19:48 #10 type.registry] 
+New type domain.User
+
+[2018-03-06 15:19:48 #11 type] 
+Type domain.User is not enhanced.
+
+[2018-03-06 15:19:48 #12 type.registry] 
+New type domain.Bet
+
+[2018-03-06 15:19:48 #13 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2018-03-06 15:19:48 #14 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 15:19:48 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 15:20:49 #1 store] 
+Database 'C:\Users\danel\Desktop\IS\Bets\resources\bets.temp' has been recovered (tr. 1-6)
+
+[2018-03-06 15:20:49 #2 store] 
+Database 'C:\Users\danel\Desktop\IS\Bets\resources\bets.temp' is opened by 11092@DESKTOP-RS6UR7Q
+
+[2018-03-06 15:20:49 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 15:20:49 #4 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 15:20:49 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 15:20:49 #6 type] 
+Type domain.User is not enhanced.
+
+[2018-03-06 15:20:50 #7 type] 
+Type domain.Bet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 15:57:37 #1 store] 
+Database 'C:\Users\danel\Desktop\IS\Bets\resources\bets.temp' is opened by 1264@DESKTOP-RS6UR7Q
+
+[2018-03-06 15:57:37 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 15:57:37 #3 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 15:57:37 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 15:57:37 #5 type] 
+Type domain.User is not enhanced.
+
+[2018-03-06 15:57:37 #6 type] 
+Type domain.Bet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 15:58:36 #1 store] 
+Database 'C:\Users\danel\Desktop\IS\Bets\resources\bets.temp' is opened by 4748@DESKTOP-RS6UR7Q
+
+[2018-03-06 15:58:36 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 15:58:36 #3 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 15:58:36 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 15:58:36 #5 type] 
+Type domain.User is not enhanced.
+
+[2018-03-06 15:58:36 #6 type] 
+Type domain.Bet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 16:00:51 #1 store] 
+Database 'C:\Users\danel\Desktop\IS\Bets\resources\bets.temp' is opened by 1496@DESKTOP-RS6UR7Q
+
+[2018-03-06 16:00:51 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 16:00:51 #3 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 16:00:51 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 16:00:51 #5 type] 
+Type domain.User is not enhanced.
+
+[2018-03-06 16:00:51 #6 type] 
+Type domain.Bet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 16:02:11 #1 store] 
+Database 'C:\Users\danel\Desktop\IS\Bets\resources\bets.temp' has been recovered (tr. 13-13)
+
+[2018-03-06 16:02:11 #2 store] 
+Database 'C:\Users\danel\Desktop\IS\Bets\resources\bets.temp' is opened by 6092@DESKTOP-RS6UR7Q
+
+[2018-03-06 16:02:11 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 16:02:11 #4 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 16:02:11 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 16:02:11 #6 type] 
+Type domain.User is not enhanced.
+
+[2018-03-06 16:02:11 #7 type] 
+Type domain.Bet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 16:07:23 #1 store] 
+Database 'C:\Users\danel\Desktop\IS\Bets\resources\bets.temp' is opened by 1684@DESKTOP-RS6UR7Q
+
+[2018-03-06 16:07:24 #2 type.registry] 
+New type domain.Question
+
+[2018-03-06 16:07:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 16:07:24 #4 type.registry] 
+New type domain.Forecast
+
+[2018-03-06 16:07:24 #5 type.registry] 
+New type java.util.Vector<domain.Forecast>
+
+[2018-03-06 16:07:24 #6 type.registry] 
+New type domain.Event
+
+[2018-03-06 16:07:24 #7 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 16:07:24 #8 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 16:07:24 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-03-06 16:07:24 #10 type.registry] 
+New type domain.User
+
+[2018-03-06 16:07:24 #11 type] 
+Type domain.User is not enhanced.
+
+[2018-03-06 16:07:24 #12 type.registry] 
+New type domain.Bet
+
+[2018-03-06 16:07:24 #13 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2018-03-06 16:07:24 #14 type] 
+Type domain.Bet is not enhanced.
+
+[2018-03-06 16:07:24 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-06 16:09:30 #1 store] 
+Database 'C:\Users\danel\Desktop\IS\Bets\resources\bets.temp' is opened by 10152@DESKTOP-RS6UR7Q
+
+[2018-03-06 16:09:30 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-06 16:09:30 #3 type] 
+Type domain.Forecast is not enhanced.
+
+[2018-03-06 16:09:30 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-06 16:09:30 #5 type] 
+Type domain.User is not enhanced.
+
+[2018-03-06 16:09:30 #6 type] 
+Type domain.Bet is not enhanced.
+

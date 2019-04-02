@@ -1,0 +1,410 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 13:35:33 #1 store] 
+Database 'E:\Bets\resources\bets.temp' has been recovered (tr. 9-9)
+
+[2018-03-05 13:35:33 #2 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 12248@Lenovo-PC
+
+[2018-03-05 13:35:33 #3 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 13:36:03 #4 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 12248@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 15:58:57 #1 store] 
+Database 'E:\Bets\resources\bets.temp' has been recovered (tr. 12-12)
+
+[2018-03-05 15:58:57 #2 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 11888@Lenovo-PC
+
+[2018-03-05 15:58:57 #3 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 15:59:26 #4 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 11888@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 16:01:05 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 9244@Lenovo-PC
+
+[2018-03-05 16:01:05 #2 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 16:01:24 #3 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 9244@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 16:12:18 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 2688@Lenovo-PC
+
+[2018-03-05 16:12:18 #2 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 16:12:40 #3 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 2688@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 16:13:45 #1 store] 
+Database 'E:\Bets\resources\bets.temp' has been recovered (tr. 15-15)
+
+[2018-03-05 16:13:45 #2 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 1668@Lenovo-PC
+
+[2018-03-05 16:13:45 #3 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 16:15:39 #4 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 1668@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 16:27:34 #1 store] 
+Database 'E:\Bets\resources\bets.temp' has been recovered (tr. 21-21)
+
+[2018-03-05 16:27:34 #2 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 10904@Lenovo-PC
+
+[2018-03-05 16:27:34 #3 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 16:27:45 #4 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 10904@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 16:33:38 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 11412@Lenovo-PC
+
+[2018-03-05 16:33:38 #2 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 16:33:47 #3 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 11412@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 17:47:04 #1 store] 
+Database 'E:\Bets\resources\bets.temp' has been recovered (tr. 29-32)
+
+[2018-03-05 17:47:04 #2 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 3520@Lenovo-PC
+
+[2018-03-05 17:47:04 #3 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 17:47:10 #4 type.registry] 
+New type java.lang.Object[]
+
+[2018-03-05 17:49:06 #5 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 3520@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 17:49:26 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 1380@Lenovo-PC
+
+[2018-03-05 17:49:26 #2 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 17:49:36 #3 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 1380@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 17:50:32 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 2652@Lenovo-PC
+
+[2018-03-05 17:50:32 #2 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 17:50:45 #3 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 2652@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 17:56:34 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 2732@Lenovo-PC
+
+[2018-03-05 17:56:34 #2 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 17:57:12 #3 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 2732@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 18:04:05 #1 store] 
+Database 'E:\Bets\resources\bets.temp' has been recovered (tr. 56-57)
+
+[2018-03-05 18:04:05 #2 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 10868@Lenovo-PC
+
+[2018-03-05 18:04:05 #3 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 18:04:56 #4 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 10868@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 18:14:49 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 6912@Lenovo-PC
+
+[2018-03-05 18:14:49 #2 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 18:14:58 #3 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 6912@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 18:16:17 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 6592@Lenovo-PC
+
+[2018-03-05 18:16:17 #2 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 18:17:02 #3 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 6592@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 18:20:54 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 7364@Lenovo-PC
+
+[2018-03-05 18:20:54 #2 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 18:21:14 #3 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 7364@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 18:21:45 #1 store] 
+Database 'E:\Bets\resources\bets.temp' has been recovered (tr. 61-62)
+
+[2018-03-05 18:21:45 #2 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 10484@Lenovo-PC
+
+[2018-03-05 18:21:45 #3 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 18:22:24 #4 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 10484@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 18:50:03 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 7544@Lenovo-PC
+
+[2018-03-05 18:50:03 #2 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 18:50:37 #3 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 7544@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 18:50:41 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 9360@Lenovo-PC
+
+[2018-03-05 18:50:41 #2 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 18:50:53 #3 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 9360@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 18:52:53 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 4704@Lenovo-PC
+
+[2018-03-05 18:52:53 #2 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 18:53:30 #3 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 4704@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 18:55:45 #1 store] 
+Database 'E:\Bets\resources\bets.temp' has been recovered (tr. 66-72)
+
+[2018-03-05 18:55:45 #2 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 10648@Lenovo-PC
+
+[2018-03-05 18:55:45 #3 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 18:57:08 #4 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 10648@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 18:59:02 #1 explorer] 
+[ObjectDB 2.7.4_02] javax.persistence.PersistenceException
+Attempt to open a database file 'E:\Bets\resources\bets.temp' that is currently in use by another process (error 141)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: com.objectdb.o.UserException: Attempt to open a database file 'E:\Bets\resources\bets.temp' that is currently in use by another process
+	at com.objectdb.o.MSG.a(MSG.java:64)
+	at com.objectdb.o.LFL.J(LFL.java:930)
+	at com.objectdb.o.LFL.x(LFL.java:887)
+	at com.objectdb.o.LFL.x(LFL.java:797)
+	at com.objectdb.o.DFL.<init>(DFL.java:241)
+	at com.objectdb.o.DMG.<init>(DMG.java:27)
+	at com.objectdb.o.MST.<init>(MST.java:127)
+	at com.objectdb.o.MST.ao(MST.java:109)
+	at com.objectdb.o.MSF.YA(MSF.java:190)
+	at com.objectdb.o.OMF.r(OMF.java:783)
+	at com.objectdb.jpa.EMF.r(EMF.java:130)
+	at com.objectdb.o.OMF.w(OMF.java:694)
+	at com.objectdb.jpa.EMF.createEntityManager(EMF.java:149)
+	... 17 more
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 18:59:05 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 6256@Lenovo-PC
+
+[2018-03-05 18:59:05 #2 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 18:59:29 #3 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 6256@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 18:59:35 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 7964@Lenovo-PC
+
+[2018-03-05 18:59:35 #2 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 18:59:48 #3 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 7964@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 19:06:11 #1 store] 
+Database 'E:\Bets\resources\bets.temp' has been recovered (tr. 73-73)
+
+[2018-03-05 19:06:11 #2 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 7472@Lenovo-PC
+
+[2018-03-05 19:06:11 #3 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 19:06:59 #4 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 7472@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 19:07:35 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 7860@Lenovo-PC
+
+[2018-03-05 19:07:35 #2 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 19:08:36 #3 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 7860@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 19:13:20 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 6540@Lenovo-PC
+
+[2018-03-05 19:13:20 #2 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 19:13:44 #3 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 6540@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 19:13:47 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 1412@Lenovo-PC
+
+[2018-03-05 19:13:47 #2 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 19:14:00 #3 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 1412@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 19:14:21 #1 explorer] 
+[ObjectDB 2.7.4_02] javax.persistence.PersistenceException
+Attempt to open a database file 'E:\Bets\resources\bets.temp' that is currently in use by another process (error 141)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: com.objectdb.o.UserException: Attempt to open a database file 'E:\Bets\resources\bets.temp' that is currently in use by another process
+	at com.objectdb.o.MSG.a(MSG.java:64)
+	at com.objectdb.o.LFL.J(LFL.java:930)
+	at com.objectdb.o.LFL.x(LFL.java:887)
+	at com.objectdb.o.LFL.x(LFL.java:797)
+	at com.objectdb.o.DFL.<init>(DFL.java:241)
+	at com.objectdb.o.DMG.<init>(DMG.java:27)
+	at com.objectdb.o.MST.<init>(MST.java:127)
+	at com.objectdb.o.MST.ao(MST.java:109)
+	at com.objectdb.o.MSF.YA(MSF.java:190)
+	at com.objectdb.o.OMF.r(OMF.java:783)
+	at com.objectdb.jpa.EMF.r(EMF.java:130)
+	at com.objectdb.o.OMF.w(OMF.java:694)
+	at com.objectdb.jpa.EMF.createEntityManager(EMF.java:149)
+	... 17 more
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 19:14:27 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 8172@Lenovo-PC
+
+[2018-03-05 19:14:27 #2 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 19:14:47 #3 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 8172@Lenovo-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-05 19:15:15 #1 store] 
+Database 'E:\Bets\resources\bets.temp' is opened by 10992@Lenovo-PC
+
+[2018-03-05 19:15:15 #2 store] 
+Configuration path: E:\Bets\objectdb-2.7.4_02\objectdb.conf
+
+[2018-03-05 19:15:27 #3 store] 
+Database 'E:\Bets\resources\bets.temp' is closed by 10992@Lenovo-PC
+

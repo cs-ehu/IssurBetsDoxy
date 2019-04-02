@@ -1,0 +1,232 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-30 00:04:19 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 8776@U102188
+
+[2018-01-30 00:04:19 #2 type.registry] 
+New type domain.Question
+
+[2018-01-30 00:04:19 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-30 00:04:19 #4 type.registry] 
+New type domain.Event
+
+[2018-01-30 00:04:19 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-30 00:04:19 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-30 00:04:19 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-30 12:57:39 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 10264@U102188
+
+[2018-01-30 12:57:40 #2 type.registry] 
+New type domain.Question
+
+[2018-01-30 12:57:40 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-30 12:57:40 #4 type.registry] 
+New type domain.Event
+
+[2018-01-30 12:57:40 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-30 12:57:40 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-30 12:57:40 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-30 12:58:03 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 10752@U102188
+
+[2018-01-30 12:58:03 #2 type.registry] 
+New type domain.Question
+
+[2018-01-30 12:58:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-30 12:58:03 #4 type.registry] 
+New type domain.Event
+
+[2018-01-30 12:58:03 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-30 12:58:03 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-30 12:58:03 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-30 13:07:34 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 1388@U102188
+
+[2018-01-30 13:07:35 #2 type.registry] 
+New type domain.Question
+
+[2018-01-30 13:07:35 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-30 13:07:35 #4 type.registry] 
+New type domain.Event
+
+[2018-01-30 13:07:35 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-30 13:07:35 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-30 13:07:35 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-30 13:07:46 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 8692@U102188
+
+[2018-01-30 13:07:46 #2 type.registry] 
+New type domain.Question
+
+[2018-01-30 13:07:46 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-30 13:07:46 #4 type.registry] 
+New type domain.Event
+
+[2018-01-30 13:07:46 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-30 13:07:46 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-30 13:07:46 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-30 13:07:53 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 10196@U102188
+
+[2018-01-30 13:07:53 #2 type.registry] 
+New type domain.Question
+
+[2018-01-30 13:07:53 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-30 13:07:53 #4 type.registry] 
+New type domain.Event
+
+[2018-01-30 13:07:53 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-30 13:07:53 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-30 13:07:53 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-30 13:08:30 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-30 13:08:37 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-30 13:08:44 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-30 13:08:55 #1 type.registry] 
+New type domain.Question
+
+[2018-01-30 13:08:55 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-30 13:08:55 #3 type.registry] 
+New type domain.Event
+
+[2018-01-30 13:08:55 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-30 13:08:55 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-30 13:08:55 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-30 13:09:04 #1 type.registry] 
+New type domain.Question
+
+[2018-01-30 13:09:04 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-30 13:09:04 #3 type.registry] 
+New type domain.Event
+
+[2018-01-30 13:09:04 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-30 13:09:04 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-30 13:09:04 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

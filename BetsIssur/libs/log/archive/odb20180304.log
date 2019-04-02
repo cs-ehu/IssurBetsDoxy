@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-04 16:14:11 #1 store] 
+Database 'C:\Users\danel\Desktop\IS\Bets\resources\bets.temp' is opened by 2844@DESKTOP-RS6UR7Q
+
+[2018-03-04 16:14:12 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-04 16:14:12 #3 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-04 16:14:12 #4 type] 
+Type domain.Usuario is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-04 16:16:00 #1 store] 
+Database 'C:\Users\danel\Desktop\IS\Bets\resources\bets.temp' has been recovered (tr. 8-8)
+
+[2018-03-04 16:16:00 #2 store] 
+Database 'C:\Users\danel\Desktop\IS\Bets\resources\bets.temp' is opened by 3260@DESKTOP-RS6UR7Q
+
+[2018-03-04 16:16:00 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-04 16:16:00 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-04 16:16:00 #5 type] 
+Type domain.Usuario is not enhanced.
+

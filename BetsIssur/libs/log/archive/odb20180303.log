@@ -1,0 +1,52 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-03 18:04:54 #1 store] 
+Database 'C:\Users\Issur\Downloads\EclipsePortable\Data\workspace\Bets2\resources\bets.temp' is opened by 1036@Lenovo-PC
+
+[2018-03-03 18:04:54 #2 type.registry] 
+New type domain.Question
+
+[2018-03-03 18:04:54 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-03 18:04:54 #4 type.registry] 
+New type domain.Event
+
+[2018-03-03 18:04:54 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-03 18:04:54 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-03-03 18:04:54 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-03-03 18:19:38 #1 store] 
+Database 'C:\Users\Issur\Downloads\EclipsePortable\Data\workspace\Bets2\resources\bets.temp' is opened by 2412@Lenovo-PC
+
+[2018-03-03 18:19:39 #2 type.registry] 
+New type domain.Question
+
+[2018-03-03 18:19:39 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-03-03 18:19:39 #4 type.registry] 
+New type domain.Event
+
+[2018-03-03 18:19:39 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-03-03 18:19:39 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-03-03 18:19:39 #7 type.registry] 
+New type domain.Usuario
+
+[2018-03-03 18:19:39 #8 type] 
+Type domain.Usuario is not enhanced.
+
+[2018-03-03 18:19:39 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

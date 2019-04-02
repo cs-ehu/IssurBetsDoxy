@@ -1,0 +1,1146 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 14:42:23 #1 server] 
+Server on port 6136 has started by 5992@U102188
+
+[2018-01-29 14:42:38 #2 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\libs\db\resources\bets.temp' is opened by 5992@U102188
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 14:42:39 #1 type.registry] 
+New type domain.Question
+
+[2018-01-29 14:42:39 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 14:42:39 #3 type.registry] 
+New type domain.Event
+
+[2018-01-29 14:42:39 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 14:42:39 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 14:42:39 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2018-01-29 14:43:06 #3 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\libs\db\resources\bets.temp' is closed by 5992@U102188
+
+[2018-01-29 14:43:13 #4 server] 
+Server on port 6136 has stopped by 5992@U102188
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 14:43:26 #1 server] 
+Server on port 6136 has started by 13168@U102188
+
+[2018-01-29 14:43:33 #2 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\libs\db\resources\bets.temp' is opened by 13168@U102188
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 14:43:33 #1 type.registry] 
+New type domain.Question
+
+[2018-01-29 14:43:33 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 14:43:33 #3 type.registry] 
+New type domain.Event
+
+[2018-01-29 14:43:33 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 14:43:34 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 14:43:34 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2018-01-29 14:43:46 #3 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\libs\db\resources\bets.temp' is closed by 13168@U102188
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 14:44:00 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+[2018-01-29 14:44:07 #4 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\libs\db\resources\bets.temp' is opened by 13168@U102188
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 14:44:08 #1 type.registry] 
+New type domain.Question
+
+[2018-01-29 14:44:08 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 14:44:08 #3 type.registry] 
+New type domain.Event
+
+[2018-01-29 14:44:08 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 14:44:08 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 14:44:08 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2018-01-29 14:44:21 #5 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\libs\db\resources\bets.temp' is closed by 13168@U102188
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 14:45:43 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 14:45:54 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+[2018-01-29 14:46:04 #6 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\libs\db\resources\bets.temp' is opened by 13168@U102188
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 14:46:04 #1 type.registry] 
+New type domain.Question
+
+[2018-01-29 14:46:04 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 14:46:04 #3 type.registry] 
+New type domain.Event
+
+[2018-01-29 14:46:04 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 14:46:04 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 14:46:04 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2018-01-29 14:47:42 #7 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\libs\db\resources\bets.temp' is closed by 13168@U102188
+
+[2018-01-29 14:47:42 #8 server] 
+Server on port 6136 has stopped by 13168@U102188
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 14:49:50 #1 server] 
+Server on port 6136 has started by 13780@U102188
+
+[2018-01-29 14:49:59 #2 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\libs\db\resources\bets.temp' is opened by 13780@U102188
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 14:49:59 #1 type.registry] 
+New type domain.Question
+
+[2018-01-29 14:49:59 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 14:49:59 #3 type.registry] 
+New type domain.Event
+
+[2018-01-29 14:49:59 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 14:49:59 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 14:49:59 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2018-01-29 14:53:41 #3 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\libs\db\resources\bets.temp' is closed by 13780@U102188
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 14:54:42 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+[2018-01-29 14:54:51 #4 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\libs\db\resources\bets.temp' is opened by 13780@U102188
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 14:54:51 #1 type.registry] 
+New type domain.Question
+
+[2018-01-29 14:54:51 #2 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 14:54:51 #3 type.registry] 
+New type domain.Event
+
+[2018-01-29 14:54:51 #4 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 14:54:51 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 14:54:51 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2018-01-29 14:58:44 #5 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\libs\db\resources\bets.temp' is closed by 13780@U102188
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 18:16:57 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 9820@U102188
+
+[2018-01-29 18:16:57 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 18:16:57 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 18:16:57 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 18:16:57 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 18:16:57 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 18:16:57 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 18:18:47 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 9356@U102188
+
+[2018-01-29 18:18:48 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 18:18:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 18:18:48 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 18:18:48 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 18:18:48 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 18:18:48 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 18:21:46 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 8816@U102188
+
+[2018-01-29 18:21:46 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 18:21:46 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 18:21:46 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 18:21:46 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 18:21:46 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 18:21:46 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 18:24:47 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 2228@U102188
+
+[2018-01-29 18:24:48 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 18:24:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 18:24:48 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 18:24:48 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 18:24:48 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 18:24:48 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 18:27:01 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 9244@U102188
+
+[2018-01-29 18:27:01 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 18:27:01 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 18:27:01 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 18:27:01 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 18:27:01 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 18:27:01 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 18:28:56 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 5708@U102188
+
+[2018-01-29 18:28:56 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 18:28:56 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 18:28:56 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 18:28:56 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 18:28:56 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 18:28:56 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 18:29:20 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 3972@U102188
+
+[2018-01-29 18:29:20 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 18:29:20 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 18:29:20 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 18:29:20 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 18:29:20 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 18:29:20 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 18:30:08 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 8704@U102188
+
+[2018-01-29 18:30:08 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 18:30:08 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 18:30:08 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 18:30:08 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 18:30:08 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 18:30:08 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 18:33:29 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 9760@U102188
+
+[2018-01-29 18:33:29 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 18:33:29 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 18:33:29 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 18:33:29 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 18:33:29 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 18:33:29 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 18:35:51 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 3284@U102188
+
+[2018-01-29 18:35:51 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 18:35:51 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 18:35:51 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 18:35:51 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 18:35:51 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 18:35:51 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 18:37:26 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 9356@U102188
+
+[2018-01-29 18:37:26 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 18:37:26 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 18:37:26 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 18:37:26 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 18:37:26 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 18:37:26 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 18:38:01 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 8480@U102188
+
+[2018-01-29 18:38:02 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 18:38:02 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 18:38:02 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 18:38:02 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 18:38:02 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 18:38:02 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 18:40:33 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 9672@U102188
+
+[2018-01-29 18:40:34 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 18:40:34 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 18:40:34 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 18:40:34 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 18:40:34 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 18:40:34 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 18:41:48 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 8376@U102188
+
+[2018-01-29 18:41:48 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 18:41:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 18:41:48 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 18:41:48 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 18:41:48 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 18:41:48 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 18:44:10 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 8896@U102188
+
+[2018-01-29 18:44:10 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 18:44:10 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 18:44:10 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 18:44:10 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 18:44:10 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 18:44:10 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 18:45:34 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 9708@U102188
+
+[2018-01-29 18:45:34 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 18:45:34 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 18:45:34 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 18:45:34 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 18:45:34 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 18:45:34 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 18:49:48 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 9744@U102188
+
+[2018-01-29 18:49:48 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 18:49:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 18:49:48 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 18:49:48 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 18:49:48 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 18:49:48 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 22:45:52 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 2168@U102188
+
+[2018-01-29 22:45:53 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 22:45:53 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 22:45:53 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 22:45:53 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 22:45:53 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 22:45:53 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 22:47:36 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 8232@U102188
+
+[2018-01-29 22:47:36 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 22:47:36 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 22:47:36 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 22:47:36 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 22:47:36 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 22:47:36 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 22:50:23 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 2620@U102188
+
+[2018-01-29 22:50:23 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 22:50:23 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 22:50:24 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 22:50:24 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 22:50:24 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 22:50:24 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 22:57:42 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 8420@U102188
+
+[2018-01-29 22:57:42 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 22:57:42 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 22:57:42 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 22:57:42 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 22:57:42 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 22:57:42 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 22:58:40 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 9432@U102188
+
+[2018-01-29 22:58:40 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 22:58:40 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 22:58:40 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 22:58:40 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 22:58:40 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 22:58:40 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 22:59:32 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 10084@U102188
+
+[2018-01-29 22:59:32 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 22:59:32 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 22:59:32 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 22:59:32 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 22:59:32 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 22:59:32 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 23:00:56 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 8492@U102188
+
+[2018-01-29 23:00:56 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 23:00:56 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 23:00:56 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 23:00:56 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 23:00:56 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 23:00:56 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 23:07:41 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 4716@U102188
+
+[2018-01-29 23:07:41 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 23:07:41 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 23:07:41 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 23:07:41 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 23:07:41 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 23:07:41 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 23:08:58 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 9364@U102188
+
+[2018-01-29 23:08:58 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 23:08:58 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 23:08:58 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 23:08:58 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 23:08:58 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 23:08:58 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 23:11:21 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 3972@U102188
+
+[2018-01-29 23:11:21 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 23:11:21 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 23:11:21 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 23:11:21 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 23:11:21 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 23:11:21 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 23:11:51 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 9204@U102188
+
+[2018-01-29 23:11:52 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 23:11:52 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 23:11:52 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 23:11:52 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 23:11:52 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 23:11:52 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 23:26:37 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 1516@U102188
+
+[2018-01-29 23:26:37 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 23:26:37 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 23:26:37 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 23:26:37 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 23:26:37 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 23:26:37 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 23:27:38 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 4264@U102188
+
+[2018-01-29 23:27:38 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 23:27:38 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 23:27:38 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 23:27:38 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 23:27:38 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 23:27:38 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 23:28:51 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 9988@U102188
+
+[2018-01-29 23:28:51 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 23:28:51 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 23:28:51 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 23:28:51 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 23:28:51 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 23:28:51 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 23:29:46 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 10168@U102188
+
+[2018-01-29 23:29:47 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 23:29:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 23:29:47 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 23:29:47 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 23:29:47 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 23:29:47 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 23:31:40 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 1476@U102188
+
+[2018-01-29 23:31:40 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 23:31:40 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 23:31:40 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 23:31:40 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 23:31:40 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 23:31:40 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 23:48:13 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 9840@U102188
+
+[2018-01-29 23:48:13 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 23:48:13 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 23:48:13 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 23:48:13 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 23:48:13 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 23:48:13 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 23:49:56 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 10104@U102188
+
+[2018-01-29 23:49:57 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 23:49:57 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 23:49:57 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 23:49:57 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 23:49:57 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 23:49:57 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 23:53:23 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 4288@U102188
+
+[2018-01-29 23:53:23 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 23:53:23 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 23:53:23 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 23:53:23 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 23:53:23 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 23:53:23 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 23:54:17 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 7932@U102188
+
+[2018-01-29 23:54:17 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 23:54:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 23:54:17 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 23:54:17 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 23:54:17 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 23:54:17 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 23:54:48 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 9840@U102188
+
+[2018-01-29 23:54:48 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 23:54:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 23:54:48 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 23:54:48 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 23:54:48 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 23:54:48 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-01-29 23:55:53 #1 store] 
+Database 'C:\Users\jipgosaa\Documents\workspace-sts-3.8.2.RELEASE\Bets\resources\bets.temp' is opened by 8864@U102188
+
+[2018-01-29 23:55:53 #2 type.registry] 
+New type domain.Question
+
+[2018-01-29 23:55:53 #3 type] 
+Type domain.Question is not enhanced.
+
+[2018-01-29 23:55:53 #4 type.registry] 
+New type domain.Event
+
+[2018-01-29 23:55:53 #5 type] 
+Type domain.Event is not enhanced.
+
+[2018-01-29 23:55:53 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2018-01-29 23:55:53 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
